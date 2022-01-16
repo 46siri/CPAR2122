@@ -1,1 +1,1 @@
-# CPAR2122
+# Computação Paralela 2122
